@@ -18,6 +18,11 @@ And then execute:
 
 Have `require "hamlit/haml_io"` somewhere. It replaces the Hamlit's implementation of `:ruby` filter.
 
+```haml
+:ruby
+  haml_io.puts 'aaa'
+```
+
 ## License
 
 The gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
