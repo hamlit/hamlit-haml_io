@@ -4,7 +4,7 @@ require 'hamlit/haml_io/version'
 
 Gem::Specification.new do |spec|
   spec.name          = 'hamlit-haml_io'
-  spec.version       = Hamlit::HamlIo::VERSION
+  spec.version       = Hamlit::HamlIO::VERSION
   spec.authors       = ['Takashi Kokubun']
   spec.email         = ['takashikkbn@gmail.com']
 
@@ -24,4 +24,5 @@ Gem::Specification.new do |spec|
 
   spec.add_development_dependency 'bundler'
   spec.add_development_dependency 'rake'
+  spec.add_development_dependency 'rspec'
 end

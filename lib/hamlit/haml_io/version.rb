@@ -1,5 +1,5 @@
 module Hamlit
-  module HamlIo
+  module HamlIO
     VERSION = '0.1.0'
   end
 end
