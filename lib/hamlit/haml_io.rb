@@ -1,4 +1,4 @@
-require "hamlit/haml_io/version"
+require 'hamlit/haml_io/version'
 
 module Hamlit
   module HamlIo
