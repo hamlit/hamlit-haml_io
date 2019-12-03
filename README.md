@@ -1,4 +1,4 @@
-# Hamlit::HamlIo
+# Hamlit::HamlIO
 
 Hamlit extension to support `haml_io` in `:ruby` filter
 
